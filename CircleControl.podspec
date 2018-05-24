@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CircleControl'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CircleControl.'
+  s.summary          = 'Circle control is customizable via interface builder or code.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,10 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
+  s.description      = 'Circle control is customizable via interface builder or code. You can change the start, minimum, final value. You can also adjust the step and rate of change of the value. AND YOU CAN CHANGE CONTROLL COLOR !!! So its amazing , its future '
   s.swift_version = '4.0'
   s.homepage         = 'https://github.com/ChristianMoler/CircleControl'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
