@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of CircleControl.",
   "description": "TODO: Add long description of the pod here.",
+  "swift_version": "4.0",
   "homepage": "https://github.com/ChristianMoler/CircleControl",
   "license": {
     "type": "MIT",
@@ -16,7 +17,7 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "CircleControl/Classes/**/*"
 }
