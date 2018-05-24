@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CircleControl_Example' do
+  pod 'CircleControl', :path => '../'
+
+  target 'CircleControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
