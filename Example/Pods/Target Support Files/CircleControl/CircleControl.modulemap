@@ -1,0 +1,6 @@
+framework module CircleControl {
+  umbrella header "CircleControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CircleControl (0.1.0)
+
+DEPENDENCIES:
+  - CircleControl (from `../`)
+
+EXTERNAL SOURCES:
+  CircleControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CircleControl: 92f39e0c3ad59407b71d7e8ba20a46784cfbe811
+
+PODFILE CHECKSUM: 31aa9dbb8bc91191e36fb51a98157a8feef21d57
+
+COCOAPODS: 1.5.2
