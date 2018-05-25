@@ -2,6 +2,7 @@
 <p align="center"> 
 <img src="https://image.ibb.co/hCVALo/Simulator_Screen_Shot_i_Phone_8_2018_05_25_at_17_22_13.png">
 </p>
+
 [![Version](https://img.shields.io/cocoapods/v/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
 [![License](https://img.shields.io/cocoapods/l/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
 [![Platform](https://img.shields.io/cocoapods/p/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
