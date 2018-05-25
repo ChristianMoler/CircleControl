@@ -1,6 +1,6 @@
 # CircleControl
 <p align="center"> 
-<img src="https://image.ibb.co/hCVALo/Simulator_Screen_Shot_i_Phone_8_2018_05_25_at_17_22_13.png">
+<img src="https://image.ibb.co/c8OVLo/Simulator_Screen_Shot_i_Phone_8_Plus_2018_05_25_at_18_11_55.png">
 </p>
 
 [![Version](https://img.shields.io/cocoapods/v/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
