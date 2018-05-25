@@ -1,4 +1,5 @@
 # CircleControl
+![Circle Control](https://image.ibb.co/hCVALo/Simulator_Screen_Shot_i_Phone_8_2018_05_25_at_17_22_13.png)
 
 [![Version](https://img.shields.io/cocoapods/v/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
 [![License](https://img.shields.io/cocoapods/l/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
