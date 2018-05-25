@@ -1,6 +1,6 @@
 # CircleControl
 <p align="center"> 
-<img src="https://image.ibb.co/c8OVLo/Simulator_Screen_Shot_i_Phone_8_Plus_2018_05_25_at_18_11_55.png">
+<img src="https://image.ibb.co/bNWjfo/Simulator_Screen_Shot_i_Phone_8_Plus_2018_05_25_at_18_15_31.png" width="100">
 </p>
 
 [![Version](https://img.shields.io/cocoapods/v/CircleControl.svg?style=flat)](https://cocoapods.org/pods/CircleControl)
@@ -16,7 +16,19 @@ Circle control is customizable via interface builder or code. You can change the
 3. Configurate using IB
 4. Implement the protocol CircleControlDelegate or set closure valueDidChanged or use action-target
 
-## IMPORTANT
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Installation
+
+CircleControl is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'CircleControl'
+```
+
+#### IMPORTANT
 
 Please add 
 
@@ -31,17 +43,6 @@ end
 in your podfile
 
 ## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Installation
-
-CircleControl is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'CircleControl'
-```
 
 ## Author
 
