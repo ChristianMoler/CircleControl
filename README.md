@@ -17,9 +17,6 @@ Circle control is customizable via interface builder or code. You can change the
 3. Configurate using IB
 4. Implement the protocol CircleControlDelegate or set closure valueDidChanged or use action-target
 
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Installation
 
 CircleControl is available through [CocoaPods](https://cocoapods.org). To install
@@ -44,6 +41,8 @@ end
 in your podfile
 
 ## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Author
 
